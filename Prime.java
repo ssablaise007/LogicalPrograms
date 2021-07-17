@@ -33,6 +33,7 @@ public void Prime(int num) {
 			else
 				System.out.println(num+" is not prime number");
 		}
+		
 		else
 			System.out.println(num+" is not prime number");
 	}
